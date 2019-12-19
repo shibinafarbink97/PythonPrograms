@@ -1,0 +1,16 @@
+no1=int(input("enter value" ))
+no2=int(input("enter value "))
+add=no1+no2
+sub=no1-no2
+mul=no1*no2
+div=no1/no2
+mod=no1%no2
+pow=no1**2
+flodiv=no1//no2
+print("add = ",add)
+print("sub = ",sub)
+print("mul = ",mul)
+print("div = ",div)
+print("mod = ",mod)
+print("pow = ",pow)
+print("flodiv = ",flodiv)
